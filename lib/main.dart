@@ -5,8 +5,7 @@ void main() {
   List<Map<String, dynamic>> fruits = [
     {"name": "Apple", "color": "Red", "price": 2.5},
     {"name": "Banana", "color": "Yellow", "price": 1.0},
-    {"name": "Grapes", "color": "Purple", "price": 3.0},
-    {"name": "Pineapple", "color": "Yellow", "price": 3.7}
+    {"name": "Grapes", "color": "Purple", "price": 3.0}
   ];
 
   // Before discount fruit details
